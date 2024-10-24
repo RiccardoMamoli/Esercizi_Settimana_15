@@ -93,6 +93,7 @@ public class MenuConfig {
         List<Pizzas> list_pizzas = new ArrayList<>();
         List<Drinks> list_drinks = new ArrayList<>();
         List<Topping> list_topping = new ArrayList<>();
+
         list_topping.add(topping_salami());
         list_topping.add(topping_onion());
         list_topping.add(topping_cheese());
